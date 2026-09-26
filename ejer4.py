@@ -1,3 +1,4 @@
+#CALCULADORA CUENTA COMPARTIDA
 total_cuenta = float(input("Cuenta:"))
 
 porcentaje_propina = float((input("Propina %:"))) / 100
