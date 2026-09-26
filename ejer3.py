@@ -1,3 +1,4 @@
+#CALCULADORA DE PINTURA
 ancho_pared = float(input("Ancho en metros:"))
 
 alto_pared = float(input("Alto en metros:"))
