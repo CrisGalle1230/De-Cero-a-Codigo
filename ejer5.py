@@ -1,3 +1,4 @@
+#NÚMERO PAR O IMPAR
 number = int(input("Número:"))
 
 if number % 2 == 0:
